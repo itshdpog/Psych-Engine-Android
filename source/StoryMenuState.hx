@@ -322,9 +322,20 @@ class StoryMenuState extends MusicBeatState
 				spr.alpha = 0;
 				spr.y = leftArrow.y - 15;
 				FlxTween.tween(spr, {y: leftArrow.y + 15, alpha: 1}, 0.07);
-			}
+/*			}
+		creditText = new FlxText(876, 530, 348);
+
+        creditText.text = 'Dont\nPress seven';
+        creditText.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.PINK, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+        creditText.scrollFactor.set();
+        add(creditText);		
 		});
 
+		if (FlxG.keys.justPressed.SEVEN)
+				{
+					fancyOpenURL("https://youtu.be/QDia3e12czc");
+				}
+*/
 		#if !switch
 		intendedScore = Highscore.getWeekScore(WeekData.weeksList[curWeek], curDifficulty);
 		#end

@@ -24,9 +24,18 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
-		['Psych Engine Android by'],
-		['Kviks',				'kviks',			'real sus guy',										'https://youtube.com/channel/UChPjrBq7z7oSVcB3FcHMDCA',	0xFFF73838],
-		['LuckyDog7', 			'luckydog', 		'sussy',											'https://youtube.com/channel/UCeHXKGpDKo2eqYKVkqCUdaA', 0xFFFFFFFF],
+		['Vs TTS creators'],
+		['Pixel',				'pixel',			'coding, charting and creator of mc water bottle',										'https://youtube.com/c/MrHDPog',	0xFFF73838],
+		['Kaique', 			'kaique', 		'compiling the source code',											'https://youtube.com/channel/UChJrX90urlmG-UYS8QLiY_Q', 0xFFFFFFFF],
+		['Slab', 			'slab', 		'creator of gripplesnatch and his song',											'https://youtu.be/a3Z7zEc7AXQ', 0xFFFFFFFF],
+		['Blendegade', 			'blend', 		'creator of gellogus and his song',											'https://youtube.com/channel/UCxaBHCgJGYbdRh_e5kEHY7Q', 0xFFFFFFFF],
+		['SixteenJ', 			'sixj', 		'making credits icons',											'https://youtube.com/channel/UC4QvfbhWv0UfiId--pJOrzw', 0xFFFFFFFF],
+		['Kickafly', 			'fly', 		'beta testing and most likely recording the video',											'https://youtube.com/c/KickaFly', 0xFFFFFFFF],
+		['Kviks',				'kviks',			'psych engine android port',										'https://youtube.com/channel/UChPjrBq7z7oSVcB3FcHMDCA',	0xFFF73838],
+		['LuckyDog7', 			'luckydog', 		'fnf android port',											'https://youtube.com/channel/UCeHXKGpDKo2eqYKVkqCUdaA', 0xFFFFFFFF],
+		[''],
+		['Main Devs discord'],
+		['Epic gang',		'discord',		'pixels kickaflys blends and slabs discord server',					'https://discord.gg/DkbUdrQukn',	0xFFFFDD33],
 		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
