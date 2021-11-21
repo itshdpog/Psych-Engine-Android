@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grippleDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gripple Sing Note DOWN0000" x="5" y="5" width="800" height="800"/>
+	<SubTexture name="gripple Sing Note LEFT0000" x="5" y="815" width="800" height="800"/>
+	<SubTexture name="gripple Sing Note RIGHT0000" x="815" y="815" width="800" height="800"/>
+	<SubTexture name="gripple Sing Note UP0000" x="1292" y="5" width="800" height="800"/>
+	<SubTexture name="gripple idle dance0000" x="815" y="5" width="467" height="800"/>
+</TextureAtlas>
