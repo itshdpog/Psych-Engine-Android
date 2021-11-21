@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"made-in-america",
+			"gellogus",
+			[
+				255,
+				0,
+				53
+			]
+		],
+		[
+			"hydrophobic",
+			"mcwaterbottle",
+			[
+				0,
+                255,
+                255
+			]
+		],
+		[
+			"scram",
+			"gripplesnatch",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Not your usual rap battle",
+	"weekName": "weektts",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
